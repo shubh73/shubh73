@@ -28,8 +28,6 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/shubhii73/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 </p>
 
-<br>
-
 <h2 align="center">Tech Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h2>
 
 <p align="center">

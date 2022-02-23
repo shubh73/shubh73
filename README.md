@@ -53,6 +53,8 @@ Here are some ideas to get you started:
  &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="40" height="40"/>
  &nbsp;
+</p>
+<p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40"/>
  &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="40" height="40"/>

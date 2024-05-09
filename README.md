@@ -6,5 +6,5 @@
 <br />
 
 <kbd>
- <img alt="GIF" src="https://github.com/shubh73/shubh73/blob/main/assets/1.gif" >
+ <img width="500" alt="GIF" src="https://github.com/shubh73/shubh73/blob/main/assets/1.gif" >
 </kbd>
